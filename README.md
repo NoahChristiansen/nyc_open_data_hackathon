@@ -29,4 +29,5 @@ NYC 311 calls from 2010 to present.  Accessed via NYC OpenData API.
 
 ### Map Sample Images (download notebook and run to use slider):
 
+!![Image of Yaktocat](https://github.com/PDibert/nyc_open_data_hackathon/blob/master/images/bokeh_plot.png)
 ![GitHub Logo](/images/bokeh_plot.png
