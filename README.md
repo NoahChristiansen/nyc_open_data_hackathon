@@ -1,6 +1,6 @@
 ### Overview:
 
-New Yorkers can call into the 311 hotline to access non-emergency city services.  These call cover a wide variety of topics; from items lost in taxis to support to assistance for elderly facing evictions.  Information on the calls that New Yorkers make to 311 is available for our analysis via NYC OpenData.  We analyzed this dataset to determine what the changing nature and volume of these calls indicates about a neighborhood.
+New Yorkers can call into the 311 hotline to access non-emergency city services.  These calls cover a wide variety of topics; from items lost in taxis to support to assistance for elderly facing evictions.  Information on the calls that New Yorkers make to 311 is available for our analysis via NYC OpenData.  We analyzed this dataset to determine what the changing nature and volume of these calls indicates about a neighborhood.
 
 ### Data Source:
 
